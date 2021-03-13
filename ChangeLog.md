@@ -1,4 +1,10 @@
 # ChangeLog
+##### 13/03 - v1.0.3
+Games added: Ninja Legends 2, Muscle Legends, Titan Simulator<br/>
+Retail Tycoon added: `Storage Max`<br/>
+Project Lazarus added: `Mode Hard` and fixed the `Money Infinity`<br/>
+Fixed the error of all scripts<br/>
+
 ##### 08/03 - v1.0.2 patch 2
 Pet Swarm Simulator `Kill Mob` has been fixed<br/>
 
