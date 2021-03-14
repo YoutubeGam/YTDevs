@@ -1,4 +1,8 @@
 # ChangeLog
+##### 14/03 - v1.0.3a
+Added `Games List` in github<br/>
+Removed `Those Who Remain`<br/>
+
 ##### 13/03 - v1.0.3
 Games added: Ninja Legends 2, Muscle Legends, Titan Simulator<br/>
 Retail Tycoon added: `Storage Max`<br/>
