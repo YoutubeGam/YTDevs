@@ -1,5 +1,8 @@
 # ChangeLog
-##### 00/04 - v1.0.4
+##### 31/03 - v1.0.4a
+Mining Simulator fixed<br/>
+
+##### 31/03 - v1.0.4
 Games added: Retail Tycoon 2, Tower Of Hell, Speed Run Simulator, Car Dealership Tycoon.<br/>
 Mining Simulator now belongs to the current UI, in addition to being obfuscator, it was finished(Auto Sell,Auto Rebirth).<br/>
 It is still in the testing phase, but it was added `YTControl`: Executer, Console, Settings(Aimbot,Esp,Chams,other), Theme(It still works only for YTControl, Soon it will work on YTHub).<br/>
