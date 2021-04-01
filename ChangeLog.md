@@ -1,4 +1,7 @@
 # ChangeLog
+##### 01/04 - v1.0.4b
+Possible concerted error<br/>
+
 ##### 31/03 - v1.0.4a
 Mining Simulator fixed<br/>
 
