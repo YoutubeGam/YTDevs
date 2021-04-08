@@ -1,4 +1,8 @@
 # ChangeLog
+##### 07/04 - v1.0.4c
+Retail Tycoon 2 - idk what the PSU did, but crash the game, fixed and optimized<br/>
+HUB - added a function of which the exploit is but used, only developers can see.(custom UI)<br/>
+
 ##### 01/04 - v1.0.4b
 Possible concerted error<br/>
 
