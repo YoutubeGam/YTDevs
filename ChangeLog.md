@@ -1,4 +1,7 @@
 # ChangeLog
+##### 08/04 - v1.0.4d
+- Changed the name of the `Speed Simulator` to `Speed Run Simulator`.<br/>
+
 ##### 07/04 - v1.0.4c
 Retail Tycoon 2 - idk what the PSU did, but crash the game, fixed and optimized<br/>
 HUB - added a function of which the exploit is but used, only developers can see.(custom UI)<br/>
