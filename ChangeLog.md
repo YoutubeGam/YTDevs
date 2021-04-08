@@ -1,4 +1,8 @@
 # ChangeLog
+##### 08/04 - v1.0.4f
+- `Speed Run Simulator` fixed.<br/>
+- `Saved` fixed.<br/>
+
 ##### 08/04 - v1.0.4d
 - Changed the name of the `Speed Simulator` to `Speed Run Simulator`.<br/>
 
