@@ -1,4 +1,7 @@
 # ChangeLog
+##### 08/04 - v1.0.4e patch 1
+- `Tower of Hell` the script (PSU).<br/>
+
 ##### 08/04 - v1.0.4e
 - `Tower of Hell` fixed.<br/>
 
