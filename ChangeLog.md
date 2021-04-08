@@ -1,4 +1,7 @@
 # ChangeLog
+##### 08/04 - v1.0.4e
+- `Tower of Hell` fixed.<br/>
+
 ##### 08/04 - v1.0.4f
 - `Speed Run Simulator` fixed.<br/>
 - `Saved` fixed.<br/>
