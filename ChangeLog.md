@@ -1,4 +1,11 @@
 # ChangeLog
+##### 12/04 - v1.0.4g
+- fixing something in the version?<br/>
+- Add Developer version.<br/>
+- `YTControl` changed to `YTExecuter`.<br/>
+- `Pet Swarm Simulator` and `Tower of Hell` changing the position of the `Dropdown`.<br/>
+- `Speed Run Simulator` I forgot to change in script(name).br/>
+
 ##### 08/04 - v1.0.4e patch 1
 - `Tower of Hell` the script (PSU).<br/>
 
