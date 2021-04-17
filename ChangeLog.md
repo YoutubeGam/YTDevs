@@ -1,4 +1,16 @@
 # ChangeLog
+##### 17/04 - v1.0.4h patch 4
+- I remembered that now<br/>
+- Reatil Tycoon 2 was inserted as well, for some reason it had not been.<br/>
+
+##### 17/04 - v1.0.4h patch 3
+
+##### 17/04 - v1.0.4h patch 2
+
+##### 17/04 - v1.0.4h patch 1
+
+##### 17/04 - v1.0.4h
+- something broke the script, I improved it now to avoid these types of errors, I can control from the outside<br/>
 ##### 12/04 - v1.0.4g
 - fixing something in the version?<br/>
 - Add Developer version.<br/>
