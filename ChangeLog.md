@@ -1,4 +1,8 @@
 # ChangeLog
+##### 18/04 - v1.0.4i
+- Added a v before the version.<br/>
+- Fixed UI curves.<br/>
+
 ##### 17/04 - v1.0.4h patch 4
 - I remembered that now<br/>
 - Reatil Tycoon 2 was inserted as well, for some reason it had not been.<br/>
