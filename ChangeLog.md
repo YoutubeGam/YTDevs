@@ -1,4 +1,7 @@
 # ChangeLog
+##### 19/04 - v1.0.4j
+- Now the script goes back to work,because nobody warned you, it's been since yesterday.<br/>
+
 ##### 18/04 - v1.0.4i
 - Added a v before the version.<br/>
 - Fixed UI curves.<br/>
