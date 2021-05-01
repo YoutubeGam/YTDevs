@@ -1,5 +1,8 @@
 # ChangeLog
 
+##### 19/04 - v1.0.5 patch 1
+- Anime Mania - Anti ban fixed<br/>
+
 ##### 19/04 - v1.0.4j
 - Now the script goes back to work,because nobody warned you, it's been since yesterday.<br/>
 
