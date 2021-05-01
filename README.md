@@ -1,14 +1,23 @@
 # YTDevs
-Just a creative name
-```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/YoutubeGam/YTDevs/main/HUB/HUB.lua'))();
-```
+Yes I know the name is creative.<br/>
+So, to know how it works, simples, let's say that here is the menu of my products<br/>
+At the moment, there are only:<br/>
+[YTHub](https://github.com/YoutubeGam/YTDevs/YTHub/)<br/>
 
-# Inspiration
-Racist Dolphin and ProtoSmasher
+### FAQ
+Why don't you use `loadstring`?<br/>
+I didn't want to<br/>
+Why is it not source code?<br/>
+To have no developer breaking or stealing<br/>
 
-# Suggestion
-Any game that is not on the list just send the game on discord `https://discord.gg/invite/u2N2KKc6p7`
+### Inspiration
+UI:<br/>
+ImGui<br/>
+Programming and structure:<br/>
+Racist Dolphin and ProtoSmasher<br/>
 
-# Warning
-Your account is at your risk, I am not responsible for anything
+### Suggestion
+I recommend you enter my server, because it will be there that the updates will go out. [Discord](https://discord.gg/invite/u2N2KKc6p7/)<br/>
+
+### Warning
+Your account is at your risk, I am not responsible for anything<br/>
