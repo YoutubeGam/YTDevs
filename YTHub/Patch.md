@@ -1,5 +1,8 @@
 # ChangeLog
 
+##### 19/04 - v1.0.5 patch 2
+- Anime Mania - Fixed `Status`<br/>
+
 ##### 19/04 - v1.0.5 patch 1
 - Anime Mania - Anti ban fixed<br/>
 
