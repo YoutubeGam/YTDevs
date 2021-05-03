@@ -1,5 +1,10 @@
 # ChangeLog
 
+##### 03/05 - v1.0.5a
+Anime Mania - fixed up saved.<br/>
+King Legacy,Lifting Titans,Warrior Legends and Mining Legends - added saved. (I had forgotten to add).<br/>
+King Legacy - was added: teleport, collect fruits.<br/>
+
 ##### 19/04 - v1.0.5 patch 2
 - Anime Mania - Fixed `Status`<br/>
 
