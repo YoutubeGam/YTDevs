@@ -2,7 +2,7 @@
 Yes I know the name is creative.<br/>
 So, to know how it works, simples, let's say that here is the menu of my products<br/>
 At the moment, there are only:<br/>
-[YTHub](https://github.com/YoutubeGam/YTDevs/YTHub/)<br/>
+[YTHub](https://github.com/YoutubeGam/YTDevs/tree/main/YTHub/)<br/>
 
 ### FAQ
 Why don't you use `loadstring`?<br/>
@@ -12,7 +12,7 @@ To have no developer breaking or stealing<br/>
 
 ### Inspiration
 UI:<br/>
-ImGui<br/>
+ImGui and ProtoSmasher<br/>
 Programming and structure:<br/>
 Racist Dolphin and ProtoSmasher<br/>
 

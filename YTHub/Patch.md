@@ -1,5 +1,8 @@
 # ChangeLog
 
+##### 21/05 - v1.0.5b
+Car Dealership Tycoon - Fixed and Added other zones<br/>
+
 ##### 03/05 - v1.0.5a
 Anime Mania - fixed up saved.<br/>
 King Legacy,Lifting Titans,Warrior Legends and Mining Legends - added saved. (I had forgotten to add).<br/>
