@@ -1,6 +1,9 @@
 # ChangeLog
 
-##### 27/05 - v1.0.5b
+##### 04/06 - v1.0.5b patch 2
+Car Dealership Tycoon - Extending the base and adding a Basepart editor<br/>
+
+##### 27/05 - v1.0.5b patch 1
 Car Dealership Tycoon - Extending the base and adding a Basepart editor<br/>
 
 ##### 21/05 - v1.0.5b
