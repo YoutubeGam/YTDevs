@@ -1,7 +1,8 @@
 # ChangeLog
 
 ##### 04/06 - v1.0.5b patch 2
-Car Dealership Tycoon - Extending the base and adding a Basepart editor<br/>
+Information has been fixed<br/>
+Car Dealership Tycoon - Added a save(forgot to add a previous patch), and removed Auto Wins<br/>
 
 ##### 27/05 - v1.0.5b patch 1
 Car Dealership Tycoon - Extending the base and adding a Basepart editor<br/>
